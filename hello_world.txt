@@ -1,1 +1,2 @@
 Initial Commit
+This is hello from Violet. I am adding a new line of code here.
